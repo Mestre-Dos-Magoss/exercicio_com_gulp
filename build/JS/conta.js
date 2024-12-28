@@ -1,0 +1,1 @@
+function ಠ_ಠ181(i,r){return i+r}function ಠ_ಠ182(i,r){return i-r}function ಠ_ಠ183(i,r){return i/r}function ಠ_ಠ184(i,r){return i*r}exports.ಠ_ಠ185={somar:ಠ_ಠ181,subtrair:ಠ_ಠ182,dividir:ಠ_ಠ183,multiplicar:ಠ_ಠ184};

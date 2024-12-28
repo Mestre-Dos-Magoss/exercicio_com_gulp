@@ -1,0 +1,7 @@
+@use "./reset.scss";
+@use "./variaveis.scss";
+
+body{
+    background-color: variaveis.$fundo;
+    color:variaveis.$corPreferida;
+}
